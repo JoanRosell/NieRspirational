@@ -1,0 +1,6 @@
+# Folders
+node_modules
+.vscode
+
+.eslintrc.json
+package*.json
